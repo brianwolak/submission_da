@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\Brian\Documents\CPE 301\CPE301_SUBMISSIONS\DA_2\DA2AT2\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Brian\Documents\CPE 301\CPE301_SUBMISSIONS\DA_2\DA2AT2\AssemblerApplication1\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Brian\Documents\CPE 301\CPE301_SUBMISSIONS\DA_2\DA2AT2\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INITIALIZE><FILE>C:\Users\Brian\Documents\CPE 301\CPE301_SUBMISSIONS\DA_2\DA2AT2\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>11</LINE></INITIALIZE>
+  <BEGIN><FILE>C:\Users\Brian\Documents\CPE 301\CPE301_SUBMISSIONS\DA_2\DA2AT2\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>27</LINE></BEGIN>
+  <LEDOFF><FILE>C:\Users\Brian\Documents\CPE 301\CPE301_SUBMISSIONS\DA_2\DA2AT2\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>71</LINE></LEDOFF>
+  <LEDON><FILE>C:\Users\Brian\Documents\CPE 301\CPE301_SUBMISSIONS\DA_2\DA2AT2\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>67</LINE></LEDON>
+  <DELAY><FILE>C:\Users\Brian\Documents\CPE 301\CPE301_SUBMISSIONS\DA_2\DA2AT2\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>40</LINE></DELAY>
+  <SUB1><FILE>C:\Users\Brian\Documents\CPE 301\CPE301_SUBMISSIONS\DA_2\DA2AT2\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>51</LINE></SUB1>
+  <SUB2><FILE>C:\Users\Brian\Documents\CPE 301\CPE301_SUBMISSIONS\DA_2\DA2AT2\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>56</LINE></SUB2>
+  <TOGGLE><FILE>C:\Users\Brian\Documents\CPE 301\CPE301_SUBMISSIONS\DA_2\DA2AT2\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>62</LINE></TOGGLE>
+ </LABELS>
+</ASSEMBLER_INFO>
